@@ -1,8 +1,10 @@
-import React from 'react';
+import Navbar from "components/Navbar";
 
 function App() {
   return (
-    <h1>DSMovie - Pagina principal</h1>
+    <div>
+      <Navbar />
+    </div>
   );
 }
 
