@@ -31,11 +31,11 @@ public class Movie implements Serializable {
 		this.count = count;
 		this.image = image;
 	}
-	public Long getIdLong() {
+	public Long getId() {
 		return id;
 	}
-	public void setIdLong(Long idLong) {
-		this.id = idLong;
+	public void setId(Long id) {
+		this.id = id;
 	}
 	public String getTitle() {
 		return title;
