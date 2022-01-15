@@ -3,7 +3,7 @@ import { useParams } from "react-router-dom";
 
 function Form() {
 
-  const params = useParams();
+  const params = useParams<string>();
 
   return (
       <FormCard movieId={`${params.movieId}`} />
