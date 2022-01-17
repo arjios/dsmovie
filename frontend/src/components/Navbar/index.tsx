@@ -9,7 +9,7 @@ function Navbar() {
         <div className="dsmovie-nav-content">
           <h1>DSMovie</h1>
           <a
-            href="https://github.com/devsuperior"
+            href="https://github.com/arjios"
             target="_blank"
             rel="noreferrer"
           >
